@@ -1,0 +1,1 @@
+"It is my first project on GitHub. It is a simple calculator developed in the Python programming language. The calculator is also graphical and includes the most basic operations found on a standard calculator."
